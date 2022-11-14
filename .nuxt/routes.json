@@ -3,7 +3,6 @@
     "name": "index",
     "path": "/",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_62cd27ab"
+    "chunkName": "pages/index"
   }
 ]

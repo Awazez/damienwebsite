@@ -1,5 +1,14 @@
 {
   "CommercialBar": {
     "description": "Auto imported from components/CommercialBar.vue"
+  },
+  "HeroHeader": {
+    "description": "Auto imported from components/HeroHeader.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "ThreePoint": {
+    "description": "Auto imported from components/ThreePoint.vue"
   }
 }
