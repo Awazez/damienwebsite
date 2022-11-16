@@ -58,7 +58,7 @@ span {
 
 .hero_title {
     margin-left: 100px;
-    margin-top: 155px;
+    margin-top: 115px;
     font-family: 'Raleway', sans-serif;
     font-size: 4em;
     color: white;

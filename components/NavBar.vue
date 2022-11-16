@@ -4,7 +4,6 @@
             <div class="container_left">
                 <NuxtLink to="/" class="logo">Damien Doussot <br>Sexotherapeute</NuxtLink> 
             </div>
-        
         <ul class="container_right">
             <NuxtLink to="/"><li class="navBotton">Accueil</li></NuxtLink>
             <NuxtLink to="/about"><li class="navBotton">Sophrologie</li></NuxtLink>
@@ -35,7 +34,6 @@ button {
 li {
     padding: 14px;
 }
-
 
 .container {
     font-family: 'Ubuntu', sans-serif;
