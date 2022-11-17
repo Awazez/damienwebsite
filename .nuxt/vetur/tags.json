@@ -10,5 +10,11 @@
   },
   "ThreePoint": {
     "description": "Auto imported from components/ThreePoint.vue"
+  },
+  "CarousselCarousel": {
+    "description": "Auto imported from components/caroussel/Carousel.vue"
+  },
+  "CarousselCarouselItem": {
+    "description": "Auto imported from components/caroussel/CarouselItem.vue"
   }
 }
