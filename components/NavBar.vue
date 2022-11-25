@@ -1,18 +1,15 @@
 <template>
-    <div class="bg-white">
-        <nav class="container">
-            <div class="container_left">
-                <NuxtLink to="/" class="logo">Damien Doussot <br>Sexotherapeute</NuxtLink> 
-            </div>
-        <ul class="container_right">
-            <NuxtLink to="/"><li class="navBotton">Accueil</li></NuxtLink>
-            <NuxtLink to="/about"><li class="navBotton">Sophrologie</li></NuxtLink>
-            <NuxtLink to="/blog"><li class="navBotton">Actualités</li></NuxtLink>
-            <NuxtLink to="/contact"><li class="navBotton">Qui?</li></NuxtLink>
-            <NuxtLink to="/contact"><li class="navBotton">Stages</li></NuxtLink>
-            <NuxtLink to="/contact"><li class="navBotton">Tarifs</li></NuxtLink>
-            <NuxtLink to="/contact"><li class="navBotton">Contact</li></NuxtLink>
-            <button><NuxtLink to="/contact"><li class="navBotton">Prendre RDV</li></NuxtLink></button>
+<div class="bg-white">
+        <nav class="container px-4 py-4 mx-auto md:flex md:justify-between md:items-center">
+                <div class="flex items-center justify-between">
+                <NuxtLink to="/" class="w-2/3 font-bold fonted"><img src=""></NuxtLink> 
+                </div>
+        <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
+        <ul Ò class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
+            <NuxtLink to="/"><li class="text-black hover:text-indigo-400">Accueil</li>           </NuxtLink>
+            <NuxtLink to="/PlanVélo"><li class="text-black hover:text-indigo-400">Le plan vélo</li> </NuxtLink>
+            <NuxtLink to="/InfosVélo"><li class="text-black hover:text-indigo-400">Infos vélo</li>   </NuxtLink>
+            <NuxtLink to="/ContactPage"><li class="text-black hover:text-indigo-400">Contact</li>    </NuxtLink>
         </ul>
         </nav>
     </div>

@@ -1,12 +1,23 @@
 <template>
 <section class="clip-path px-4 bg-bermuda text-center wave-container">
+      <div class="pb-12 mt-36">
              <div class="hero_title ">
-              Pour <br>
-              retrouver un <br>
-              plaisir <br>
-              partagé
-              </div> 
-</section>
+                <span class="fadeInUp" style="animation-delay:0.1s;">Pour </span>  
+                <span class="fadeInUp" style="animation-delay:0.2s;">retrouver</span> 
+                <span class="fadeInUp" style="animation-delay:0.3s;">un</span>
+              </div>
+              <div class="hero_title">
+                <span class="fadeInUp" style="animation-delay:0.4s;">plaisir </span>
+                <span class="fadeInUp" style="animation-delay:0.5s;">partagé  </span>
+              </div>
+
+          <div class="mb-36 mt-12 fadeInUp" style="animation-delay:1.1s;">
+            <a href="https://www.helloasso.com/associations/velorution-cherbourg" class="py-2 px-4 md:py-4 md:px-6 mr-2 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">Prendre un RDV</a>
+            <NuxtLink to="/ContactPage" class="py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  Contact <span>&rarr;</span></NuxtLink>
+          </div>
+        </div>
+
+      </section>
 </template>
     
 <script>
@@ -19,14 +30,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
 .wave-container {
-  position: relative;
   background-image: url('@/assets/img_hero_header.jpg');
+  position: relative;
   background-size: cover;
   color: black;
+  text-align: center;
   overflow: hidden;
-  text-align: left;
 }
-
 h1 {
   font-family: 'Lato', sans-serif;
   color:black;
@@ -54,13 +64,12 @@ span {
 .clip-path {
   width: 100%;
   min-height: 600px;
+  clip-path: polygon(0 0, 100% 0, 100% 92%, 0 100%);
 }
 
 .hero_title {
-    margin-left: 100px;
-    margin-top: 115px;
     font-family: 'Raleway', sans-serif;
-    font-size: 4em;
+    font-size: 75px;
     color: white;
 }
 .fadeInUp{
@@ -73,8 +82,11 @@ span {
   100%{transform:translate(0px, 0); opacity: 1;}
 }
 
-@media screen { 
-  
+
+@media only screen and (max-width: 768px){
+.hero_title {
+    font-size: 50px;
+  }
 }
 
     
