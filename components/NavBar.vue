@@ -5,7 +5,7 @@
                 <NuxtLink to="/" class="w-2/3 font-bold fonted"><img src=""></NuxtLink> 
                 </div>
         <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
-        <ul Ò class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
+        <ul class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
             <NuxtLink to="/"><li class="text-black hover:text-indigo-400">Accueil</li>           </NuxtLink>
             <NuxtLink to="/PlanVélo"><li class="text-black hover:text-indigo-400">Le plan vélo</li> </NuxtLink>
             <NuxtLink to="/InfosVélo"><li class="text-black hover:text-indigo-400">Infos vélo</li>   </NuxtLink>

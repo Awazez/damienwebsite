@@ -1,3 +1,4 @@
+export { default as ActuSection } from '../../components/ActuSection.vue'
 export { default as CommercialBar } from '../../components/CommercialBar.vue'
 export { default as HeroHeader } from '../../components/HeroHeader.vue'
 export { default as NavBar } from '../../components/NavBar.vue'

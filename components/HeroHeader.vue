@@ -1,5 +1,5 @@
 <template>
-<section class="clip-path px-4 bg-bermuda text-center wave-container">
+<section class="px-4 bg-bermuda text-center wave-container">
       <div class="pb-12 mt-36">
              <div class="hero_title ">
                 <span class="fadeInUp" style="animation-delay:0.1s;">Pour </span>  
@@ -16,7 +16,6 @@
             <NuxtLink to="/ContactPage" class="py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  Contact <span>&rarr;</span></NuxtLink>
           </div>
         </div>
-
       </section>
 </template>
     
@@ -69,7 +68,7 @@ span {
 
 .hero_title {
     font-family: 'Raleway', sans-serif;
-    font-size: 75px;
+    font-size: 50px;
     color: white;
 }
 .fadeInUp{
