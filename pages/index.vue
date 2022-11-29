@@ -6,6 +6,8 @@
 
     <HeroHeader/>
     <ThreePoint/>
+    <ActuSection/>
+    <UsersSection/>
   </div>
 </template>
 <script>

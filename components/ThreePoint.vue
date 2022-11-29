@@ -1,6 +1,6 @@
 <template>
 
-<section class="section_projects bg-[#FAF6F2] pt-12">
+<section class="section_projects bg-[#FAF6F2] mt-[-45px] pt-24">
         <div class="projects__grid grid gap-8 max-w-screen-lg ">
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_bed.png">
@@ -19,14 +19,13 @@
 Vous pouvez régler toutes sortes de problématiques, apparues récemment ou celles plus anciennes qui perdurent dans le temps.
             </p>
 
-            <br>
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
       
           </div>
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_yoga.png">
             <p class="project__description">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nisi quod ab mollitia ea molestias maxime saepe in rem at nostrum quas, dolorem assumenda veniam aperiam. Inventore neque quas aperiam?
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nisi quod ab mollitia ea molestias maxime saepe in rem at nostrum quas, dolorem assumenda veniam aperiam. Inventore neque quas aperiam? dolorem assumenda veniam aperiam. Inventore neque quas aperiam?
             </p>
             <br>
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
@@ -97,6 +96,7 @@ a {
 .project__description {
   margin-top: 1em;
   text-align: justify;
+  font-size: 15px;
 }
   
 .project__stack {

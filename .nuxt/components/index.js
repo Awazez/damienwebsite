@@ -3,6 +3,7 @@ export { default as CommercialBar } from '../../components/CommercialBar.vue'
 export { default as HeroHeader } from '../../components/HeroHeader.vue'
 export { default as NavBar } from '../../components/NavBar.vue'
 export { default as ThreePoint } from '../../components/ThreePoint.vue'
+export { default as UsersSection } from '../../components/UsersSection.vue'
 export { default as CarousselCarousel } from '../../components/caroussel/Carousel.vue'
 export { default as CarousselCarouselItem } from '../../components/caroussel/CarouselItem.vue'
 

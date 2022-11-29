@@ -11,5 +11,6 @@ You can directly use them in pages and other components without the need to impo
 - `<HeroHeader>` | `<hero-header>` (components/HeroHeader.vue)
 - `<NavBar>` | `<nav-bar>` (components/NavBar.vue)
 - `<ThreePoint>` | `<three-point>` (components/ThreePoint.vue)
+- `<UsersSection>` | `<users-section>` (components/UsersSection.vue)
 - `<CarousselCarousel>` | `<caroussel-carousel>` (components/caroussel/Carousel.vue)
 - `<CarousselCarouselItem>` | `<caroussel-carousel-item>` (components/caroussel/CarouselItem.vue)

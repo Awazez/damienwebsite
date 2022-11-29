@@ -1,5 +1,5 @@
 <template>
-<section class="px-4 bg-bermuda text-center wave-container">
+<section class="px-4 bg-bermuda text-center wave-container clip-path">
       <div class="pb-12 mt-36">
              <div class="hero_title ">
                 <span class="fadeInUp" style="animation-delay:0.1s;">Pour </span>  
@@ -29,7 +29,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
 .wave-container {
-  background-image: url('@/assets/img_hero_header.jpg');
+  background-image: url('@/assets/img_couple.jpg');
   position: relative;
   background-size: cover;
   color: black;
