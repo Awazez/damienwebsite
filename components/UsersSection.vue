@@ -1,11 +1,11 @@
 <template>
-  <div>
-    <div class="container">
-    <h1>Avis des utilisateurs</h1>
-</div>
+  <section class="bg-white">
+    <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
+    </div>
 
 
-  </div>
+  </section>
+
 </template>
 
 <script>
@@ -15,16 +15,5 @@ export default {
 </script>
 
 <style scoped>
-
-.container {
-    background-color: black;
-    width: 700px;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-    flex-direction: column;
-    margin-left: 150px;
-    margin-top: 50px;
-}
 
 </style>
