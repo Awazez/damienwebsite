@@ -1,9 +1,6 @@
 <template>
-  <section class="bg-white container">
-    <div class="">
+  <div class="container">
         <h1>Avis des utilisateurs <span>🚀</span> </h1>
-    </div>
-    <div>
       <div class="center">
       <p>{{ names[0]}}</p> 
     </div>
@@ -11,7 +8,6 @@
         <button v-on:click="reverseReviewContent()" class="py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black"> Voir un autre avis</button>
       </div>
     </div>
-  </section>
 
 </template>
 
@@ -25,7 +21,7 @@ export default {
 },
  methods: {
   reverseReviewContent() {
-    this.names.reverse()
+    this.names.reverse() 
   }
  }
 
@@ -36,7 +32,7 @@ export default {
 <style scoped>
 
 p {
-  margin-top: 15px;
+  padding-top: 15px;
   text-align: justify;
   margin-left: 25px;
   width: 700px;
@@ -45,13 +41,18 @@ p {
 }
 
 h1 {
-  margin-top: 105px;
+  padding-top: 150px;
   font-size: 40px;
   text-align: center;
 }
 
 .container {
-  height: 380px;
+  height: 550px;
+  max-width: 100%;
+  background-color: #FAF6F2;
+  padding-bottom: 150px;
+  
+
 }
 
 .center {
