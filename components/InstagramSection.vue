@@ -1,5 +1,6 @@
 <template>
     <div>
+        <h1>Suivez-moi sur instagram</h1>
 
     </div>
 
@@ -17,6 +18,11 @@ h1 {
   font-size: 40px;
   text-align: center;
 }
+
+
+
+
+
 
 
 </style>
