@@ -9,6 +9,7 @@ You can directly use them in pages and other components without the need to impo
 - `<ActuSection>` | `<actu-section>` (components/ActuSection.vue)
 - `<CommercialBar>` | `<commercial-bar>` (components/CommercialBar.vue)
 - `<HeroHeader>` | `<hero-header>` (components/HeroHeader.vue)
+- `<InstagramSection>` | `<instagram-section>` (components/InstagramSection.vue)
 - `<NavBar>` | `<nav-bar>` (components/NavBar.vue)
 - `<ThreePoint>` | `<three-point>` (components/ThreePoint.vue)
 - `<UsersSection>` | `<users-section>` (components/UsersSection.vue)
