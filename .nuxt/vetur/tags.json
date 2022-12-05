@@ -8,6 +8,9 @@
   "HeroHeader": {
     "description": "Auto imported from components/HeroHeader.vue"
   },
+  "InstagramSection": {
+    "description": "Auto imported from components/InstagramSection.vue"
+  },
   "NavBar": {
     "description": "Auto imported from components/NavBar.vue"
   },
