@@ -4,7 +4,9 @@
         <h1>Avis des utilisateurs <span>🚀</span> </h1>
     </div>
     <div>
+      <div class="center">
       <p>{{ names[0]}}</p> 
+    </div>
       <div class="center">
         <button v-on:click="reverseReviewContent()" class="py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black"> Voir un autre avis</button>
       </div>
@@ -38,18 +40,18 @@ p {
   text-align: justify;
   margin-left: 25px;
   width: 700px;
+  text-align: center;
+
 }
 
 h1 {
+  margin-top: 105px;
   font-size: 40px;
+  text-align: center;
 }
 
 .container {
-  height: 450px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
+  height: 380px;
 }
 
 .center {
