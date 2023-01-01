@@ -7,7 +7,7 @@
         <!-- Mobile Menu open: "block", Menu closed: "hidden" -->
         <ul class="flex-col mt-8 space-y-4 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
             <NuxtLink to="/"><li class="text-black hover:text-indigo-400">Accueil</li>           </NuxtLink>
-            <NuxtLink to="/PlanVélo"><li class="text-black hover:text-indigo-400">Compétences</li> </NuxtLink>
+            <NuxtLink to="/AccompagnementPage"><li class="text-black hover:text-indigo-400">Accompagnement</li> </NuxtLink>
             <NuxtLink to="/InfosVélo"><li class="text-black hover:text-indigo-400">Qui suis je?</li>   </NuxtLink>
             <NuxtLink to="/ContactPage"><li class="text-black hover:text-indigo-400">Contact</li>    </NuxtLink>
         </ul>
