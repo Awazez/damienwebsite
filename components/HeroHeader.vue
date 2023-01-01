@@ -12,8 +12,8 @@
               </div>
 
           <div class="mb-36 mt-12 fadeInUp" style="animation-delay:1.1s;">
-            <a href="https://www.helloasso.com/associations/velorution-cherbourg" class="py-2 px-4 md:py-4 md:px-6 mr-2 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">Prendre un RDV</a>
-            <NuxtLink to="/ContactPage" class="py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  Contact <span>&rarr;</span></NuxtLink>
+            <a href="https://www.helloasso.com/associations/velorution-cherbourg" class="py-2 px-4 md:py-4 md:px-6 mr-2  select-none hover:bg-gray-100 bg-[#111827] rounded shadow-lg text-white">Prendre un RDV</a>
+            <NuxtLink to="/ContactPage" class="py-2 px-4 md:py-4 md:px-6  select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  Contact <span>&rarr;</span></NuxtLink>
           </div>
         </div>
       </section>
