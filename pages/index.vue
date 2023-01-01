@@ -8,7 +8,7 @@
     <ThreePoint/>
     <ActuSection/>
     <UsersSection/>
-    <InstagramSection/>
+    <FooterBar/>
   </div>
 </template>
 <script>
