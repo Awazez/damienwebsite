@@ -5,6 +5,9 @@
   "CommercialBar": {
     "description": "Auto imported from components/CommercialBar.vue"
   },
+  "FooterBar": {
+    "description": "Auto imported from components/FooterBar.vue"
+  },
   "HeroHeader": {
     "description": "Auto imported from components/HeroHeader.vue"
   },
