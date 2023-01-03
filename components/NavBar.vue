@@ -9,6 +9,7 @@
             <NuxtLink to="/"><li class="text-black hover:text-indigo-400">Accueil</li>           </NuxtLink>
             <NuxtLink to="/AccompagnementPage"><li class="text-black hover:text-indigo-400">Accompagnement</li> </NuxtLink>
             <NuxtLink to="/InfosVélo"><li class="text-black hover:text-indigo-400">Qui suis je?</li>   </NuxtLink>
+            <NuxtLink to="/TarifsPage"><li class="text-black hover:text-indigo-400"> Tarifs</li></NuxtLink>
             <NuxtLink to="/ContactPage"><li class="text-black hover:text-indigo-400">Contact</li>    </NuxtLink>
         </ul>
         </nav>

@@ -14,6 +14,13 @@
     "_name": "_13d6b370"
   },
   {
+    "name": "TarifsPage",
+    "path": "/TarifsPage",
+    "component": "/Users/awazez/Desktop/damienwebsite/pages/TarifsPage.vue",
+    "chunkName": "pages/TarifsPage",
+    "_name": "_667f3977"
+  },
+  {
     "name": "WhoPage",
     "path": "/WhoPage",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/WhoPage.vue",
