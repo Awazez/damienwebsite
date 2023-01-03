@@ -18,6 +18,12 @@
                     Qui Suis Je ?
                 </NuxtLink>
             </div>
+
+            <div class="px-5 py-2">
+                <NuxtLink to="/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+                    Tarifs 
+                </NuxtLink>
+            </div>
          
             <div class="px-5 py-2">
                 <NuxtLink to="/ContactPage" class="text-base leading-6 text-gray-500 hover:text-gray-900">
@@ -41,7 +47,7 @@
               </a>
         </div>
         <p class="mt-8 text-base leading-6 text-center text-gray-400">
-            © 2022 Vélorution-cherbourg
+            Fait avec ❤️ en Normandie
         </p>
     </div>
 </section>
