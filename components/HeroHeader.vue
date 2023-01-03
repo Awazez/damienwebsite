@@ -12,7 +12,7 @@
               </div>
 
           <div class="mb-36 mt-12 fadeInUp" style="animation-delay:1.1s;">
-            <a href="https://www.helloasso.com/associations/velorution-cherbourg" class="py-2 px-4 md:py-4 md:px-6 mr-2  select-none hover:bg-gray-100 bg-[#111827] rounded shadow-lg text-white">Prendre un RDV</a>
+            <a href="https://calendly.com/damien-doussot-therapeute" class="py-2 px-4 md:py-4 md:px-6 mr-2  select-none hover:bg-gray-700 bg-[#111827] rounded shadow-lg text-white">Prendre un RDV</a>
             <NuxtLink to="/ContactPage" class="py-2 px-4 md:py-4 md:px-6  select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  Contact <span>&rarr;</span></NuxtLink>
           </div>
         </div>
