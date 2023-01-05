@@ -1,5 +1,9 @@
 <template>
+    <div>
+        <CommercialBar/>
 <NavBar/>
+    </div>
+
   
 </template>
 
