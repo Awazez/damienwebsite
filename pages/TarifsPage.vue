@@ -2,6 +2,27 @@
     <div>
         <CommercialBar/>
     <NavBar/>
+    <div>
+
+<div class="w-screen h-screen flex justify-center">
+    <div class="w-7/12 h-7/12">
+    <h1 class="text-center">Le cabinet & tarifs</h1>
+    <h2 class="text-center">Pour une vraie intégration du vélo en ville</h2>
+    <br>
+    <p > Séance individuelle (1h) <br>
+Adultes, adolescents				65 €			Réservez une séance <br><br>
+Étudiants, demandeurs d’emploi		50 € 			Réservez une séance <br><br>
+Séance de respiration individuelle (1h30)	90 €			Réservez une séance <br><br>
+Séance de couple (1h30)			90 €			Réservez une séance<br>
+    </p>
+    <br>
+ </div>
+
+  
+
+
+</div> 
+</div>
 
     <div class="">
 
