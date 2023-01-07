@@ -3,12 +3,19 @@
     <div class="gap-16 items-center py-8 px-4 mx-auto max-w-screen-xl lg:grid lg:grid-cols-2 lg:py-16 lg:px-6">
         <div class="font-light text-gray-500 sm:text-lg dark:text-gray-400">
             <h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Actualités</h2>
-            <p class="mb-4">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempore incidunt consectetur voluptatum vel earum iusto, illo molestias obcaecati iure consequatur quos autem inventore vero blanditiis nulla deserunt ipsum neque ipsam.</p>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero, deleniti tempore voluptates nulla alias corporis autem illo suscipit porro harum libero veniam atque reprehenderit magnam in! Explicabo earum tempore fugit!</p>
+            <p class="mb-4">
+Je vous accueille désormais dans mon cabinet situé 3 rue Claude Chappe à Caen pour des séances de:
+Sexothérapie
+Thérapie de couple
+Hypnose & PNL
+Respiration en hyperventilation 
+Pour savoir comment je peux vous accompagner ou pour prendre rendez-vous, contactez-moi par téléphone au 06.63.83.99.37 ou par mail damien.doussot.therapeute@gmail.com.<br><br>
+Au plaisir de vous accueillir ! <br><br>
+Prenez soin de vous </p>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
             <img class="w-full rounded-lg" src="@/assets/img_hand.jpg" alt="office content 1">
-            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/content/office-long-1.png" alt="office content 2">
+            <img class="mt-4 w-full lg:mt-10 rounded-lg" src="@/assets/img_cabinet.jpg" alt="office content 2">
         </div>
     </div>
 

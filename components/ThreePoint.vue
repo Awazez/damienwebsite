@@ -4,6 +4,7 @@
         <div class="projects__grid grid gap-8 max-w-screen-lg ">
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_bed.png">
+            <h1>Accompagnement personnalisé</h1>
             <p class="project__description">
               La sexothérapie est une forme spécialisée de la psychothérapie qui aborde la sexualité de la personne dans toutes ses dimensions (physique, mentale, émotionnelle, énergétique, spirituelle) afin de traiter les troubles sexuels et retrouver une sexualité épanouie. 
             </p>
@@ -14,6 +15,7 @@
 
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_hypnose.png">
+            <h1>Ecoute bienveillante</h1>
             <p class="project__description">
               En état d’hypnose, vous pouvez modifier des comportements qui ne sont pas ou plus adaptés à votre bien-être et dépasser vos limites habituelles.
 Vous pouvez régler toutes sortes de problématiques, apparues récemment ou celles plus anciennes qui perdurent dans le temps.

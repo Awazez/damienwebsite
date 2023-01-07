@@ -9,15 +9,16 @@
                 </NuxtLink>
             </div>
             <div class="px-5 py-2">
-                <NuxtLink to="/AccompagnementPage" class="text-base leading-6 text-gray-500 hover:text-gray-900">
-                    Accompagnement
-                </NuxtLink>
-            </div>
-            <div class="px-5 py-2">
                 <NuxtLink to="/WhoPage" class="text-base leading-6 text-gray-500 hover:text-gray-900">
                     Qui Suis Je ?
                 </NuxtLink>
             </div>
+            <div class="px-5 py-2">
+                <NuxtLink to="/AccompagnementPage" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+                    Accompagnement
+                </NuxtLink>
+            </div>
+           
 
             <div class="px-5 py-2">
                 <NuxtLink to="/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
