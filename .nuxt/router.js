@@ -6,6 +6,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 
 const _2f84729c = () => interopDefault(import('../pages/AccompagnementPage.vue' /* webpackChunkName: "pages/AccompagnementPage" */))
 const _13d6b370 = () => interopDefault(import('../pages/ContactPage.vue' /* webpackChunkName: "pages/ContactPage" */))
+const _39d3c474 = () => interopDefault(import('../pages/MentionLegal.vue' /* webpackChunkName: "pages/MentionLegal" */))
 const _667f3977 = () => interopDefault(import('../pages/TarifsPage.vue' /* webpackChunkName: "pages/TarifsPage" */))
 const _2b522866 = () => interopDefault(import('../pages/WhoPage.vue' /* webpackChunkName: "pages/WhoPage" */))
 const _62cd27ab = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
@@ -29,6 +30,10 @@ export const routerOptions = {
     path: "/ContactPage",
     component: _13d6b370,
     name: "ContactPage"
+  }, {
+    path: "/MentionLegal",
+    component: _39d3c474,
+    name: "MentionLegal"
   }, {
     path: "/TarifsPage",
     component: _667f3977,

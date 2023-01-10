@@ -14,6 +14,13 @@
     "_name": "_13d6b370"
   },
   {
+    "name": "MentionLegal",
+    "path": "/MentionLegal",
+    "component": "/Users/awazez/Desktop/damienwebsite/pages/MentionLegal.vue",
+    "chunkName": "pages/MentionLegal",
+    "_name": "_39d3c474"
+  },
+  {
     "name": "TarifsPage",
     "path": "/TarifsPage",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/TarifsPage.vue",
