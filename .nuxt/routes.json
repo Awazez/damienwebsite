@@ -3,42 +3,36 @@
     "name": "AccompagnementPage",
     "path": "/AccompagnementPage",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/AccompagnementPage.vue",
-    "chunkName": "pages/AccompagnementPage",
-    "_name": "_2f84729c"
+    "chunkName": "pages/AccompagnementPage"
   },
   {
     "name": "ContactPage",
     "path": "/ContactPage",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/ContactPage.vue",
-    "chunkName": "pages/ContactPage",
-    "_name": "_13d6b370"
+    "chunkName": "pages/ContactPage"
   },
   {
     "name": "MentionLegal",
     "path": "/MentionLegal",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/MentionLegal.vue",
-    "chunkName": "pages/MentionLegal",
-    "_name": "_39d3c474"
+    "chunkName": "pages/MentionLegal"
   },
   {
     "name": "TarifsPage",
     "path": "/TarifsPage",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/TarifsPage.vue",
-    "chunkName": "pages/TarifsPage",
-    "_name": "_667f3977"
+    "chunkName": "pages/TarifsPage"
   },
   {
     "name": "WhoPage",
     "path": "/WhoPage",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/WhoPage.vue",
-    "chunkName": "pages/WhoPage",
-    "_name": "_2b522866"
+    "chunkName": "pages/WhoPage"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/awazez/Desktop/damienwebsite/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_62cd27ab"
+    "chunkName": "pages/index"
   }
 ]
