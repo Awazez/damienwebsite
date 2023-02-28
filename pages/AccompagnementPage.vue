@@ -59,8 +59,6 @@ export default {
 h1 {
 
     font-weight: bold;
-
-
 }
 
 

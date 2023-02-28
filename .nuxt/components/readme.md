@@ -14,5 +14,6 @@ You can directly use them in pages and other components without the need to impo
 - `<NavBar>` | `<nav-bar>` (components/NavBar.vue)
 - `<ThreePoint>` | `<three-point>` (components/ThreePoint.vue)
 - `<UsersSection>` | `<users-section>` (components/UsersSection.vue)
+- `<WhoIAm>` | `<who-i-am>` (components/WhoIAm.vue)
 - `<CarousselCarousel>` | `<caroussel-carousel>` (components/caroussel/Carousel.vue)
 - `<CarousselCarouselItem>` | `<caroussel-carousel-item>` (components/caroussel/CarouselItem.vue)

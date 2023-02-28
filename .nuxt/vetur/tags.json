@@ -23,6 +23,9 @@
   "UsersSection": {
     "description": "Auto imported from components/UsersSection.vue"
   },
+  "WhoIAm": {
+    "description": "Auto imported from components/WhoIAm.vue"
+  },
   "CarousselCarousel": {
     "description": "Auto imported from components/caroussel/Carousel.vue"
   },
