@@ -19,10 +19,6 @@ Prenez soin de vous </p>
             <img class="mt-4 w-full lg:mt-10 rounded-lg" src="@/assets/img_cabinet.jpg" alt="office content 2">
         </div>
     </div>
-
-
-
-
 </section>
 
 </template>
