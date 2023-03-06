@@ -1,14 +1,14 @@
 <template>
   <div>
-    <CommercialBar/>
-    <NavBar/>
-    <Carousel></Carousel>
+      <CommercialBar/>
+      <NavBar/>
+      <Carousel></Carousel>
 
-    <HeroHeader/>
-    <ThreePoint/>
-    <ActuSection/>
-    <UsersSection/>
-    <FooterBar/>
+      <HeroHeader/>
+      <ThreePoint/>
+      <ActuSection/>
+      <UsersSection/>
+      <FooterBar/>
   </div>
 </template>
 <script>
