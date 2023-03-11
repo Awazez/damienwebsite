@@ -34,16 +34,15 @@ Aujourd’hui, je me consacre à ce qui me fait vraiment vibrer, vous accompagne
 </div>
 
 <div class="container-perso">
-Déontologie
 Pour aborder un domaine aussi intime et personnel que la sexualité et la vie de couple, vous avez besoin d’avoir confiance en votre thérapeute.
-Le sexothérapeute est soumis au secret professionnel, ce qui signifie que ce qui se dit dans le cabinet reste dans le cabinet.
+Le sexothérapeute est soumis au secret professionnel, ce qui signifie que ce qui se dit dans le cabinet reste dans le cabinet. <br><br>
 Lors des entretiens, le thérapeute s’abstient de formuler tout jugement quant aux confidences qui lui sont faites et accueille la personne dans son authenticité.
-Pour les praticiens de la psychothérapie, le code de déontologie constitue un cadre de travail en énonçant plusieurs principes fondamentaux dans l’exercice de leur pratique.
-Il se fonde sur 4 piliers:
-Respecter et favoriser l’autonomie de la personne qui consulte.
-Respecter la confidentialité des propos échangés.
-Développer les compétences du praticien, grâce à la formation initiale, en suivant une thérapie personnelle, en étant suivi dans sa pratique professionnelle (supervision) et en se formant en continu.
-Travailler en réseau afin d’orienter les personnes qui pourraient avoir besoin d’un suivi médical.​
+Pour les praticiens de la psychothérapie, le code de déontologie constitue un cadre de travail en énonçant plusieurs principes fondamentaux dans l’exercice de leur pratique.<br><br>
+Il se fonde sur 4 piliers:<br>
+- respecter et favoriser l’autonomie de la personne qui consulte.<br>
+- respecter la confidentialité des propos échangés.<br>
+- développer les compétences du praticien, grâce à la formation initiale, en suivant une thérapie personnelle, en étant suivi dans sa pratique professionnelle (supervision) et en se formant en continu.<br>
+- travailler en réseau afin d’orienter les personnes qui pourraient avoir besoin d’un suivi médical.​ <br>
 </div>
 
 
@@ -85,10 +84,10 @@ h2 {
     font-size: 24px;
     width: 600px;
     height: 200px;
-    margin-left: 100px;
 }
 
 .container-right{
+    margin-left: 50px;
     font-size: 24px;
     text-align: justify;
 
@@ -96,10 +95,9 @@ h2 {
 
 .container-text {
     padding-top: 50px;
-    padding-bottom:  50px;
     width: 100%;
-    height: 600px;
-    font-size: 40px;
+    height: 500px;
+    font-size: 35px;
     border: none;
     background-color: #111827;
     color: white;
@@ -112,13 +110,15 @@ h2 {
 }
 
 .container-perso {
-    width: 1000px;
     margin: auto;
+    width: 1000px;
     height: 1000px;
+    padding-top: 100px;
+    padding: 100px;
     background-color: white;
+    margin-left: 50px;
     font-size: 24px;
-    text-align: center;
-
+    text-align: justify;
 }
 
 
