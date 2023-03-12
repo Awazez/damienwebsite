@@ -4,9 +4,9 @@
         <div class="projects__grid grid gap-8 max-w-screen-lg ">
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_bed.png">
-            <h1>Accompagnement personnalisé</h1>
+            <h1>Ecoute bienveillante</h1>
             <p class="project__description">
-              La sexothérapie est une forme spécialisée de la psychothérapie qui aborde la sexualité de la personne dans toutes ses dimensions (physique, mentale, émotionnelle, énergétique, spirituelle) afin de traiter les troubles sexuels et retrouver une sexualité épanouie. 
+              Quelles que soient vos difficultés, j’accueille votre parole avec bienveillance et humanité dans un espace sécurisé où tout peut être déposé, sans se censurer, car nommer ses maux est la première étape pour se libérer. 
             </p>
             <br>
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
@@ -15,10 +15,9 @@
 
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_hypnose.png">
-            <h1>Ecoute bienveillante</h1>
+            <h1>Se reconnecter à soi</h1>
             <p class="project__description">
-              En état d’hypnose, vous pouvez modifier des comportements qui ne sont pas ou plus adaptés à votre bien-être et dépasser vos limites habituelles.
-Vous pouvez régler toutes sortes de problématiques, apparues récemment ou celles plus anciennes qui perdurent dans le temps.
+              Bien souvent, on se dissocie émotionnellement de notre vécu douloureux. Pourtant, il est nécessaire de reconnecter ces moments et de s’associer à ce qui se passe à l’intérieur de nous pour transmuter  et reprendre son pouvoir personnel sur ces situations difficiles. Je vous accompagne dans cette traversée intérieure.
             </p>
 
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
@@ -26,10 +25,11 @@ Vous pouvez régler toutes sortes de problématiques, apparues récemment ou cel
           </div>
           <div class="px-8 py-6 mt-4 text-center bg-[#FAF6F2] box"> 
             <img class="" src="@/assets/img_yoga.png">
+            <h1>Trouver du sens</h1>
             <p class="project__description">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officiis nisi quod ab mollitia ea molestias maxime saepe in rem at nostrum quas, dolorem assumenda veniam aperiam. Inventore neque quas aperiam? dolorem assumenda veniam aperiam. Inventore neque quas aperiam?
+              Il arrive d’avoir la sensation de ne pas être maître de sa vie et de reproduire inconsciemment les mêmes choses sans comprendre pourquoi. S'engager dans un travail thérapeutique permet de mettre du sens sur ce qui nous arrive. 
             </p>
-            <br>
+              <br>
             <NuxtLink to="/ContactPage" class=" bg-[#FAF6F2] py-2 px-4 md:py-4 md:px-6 border select-none hover:bg-gray-100 bg-white rounded shadow-lg text-black">  En savoir plus </NuxtLink>
       
           </div>

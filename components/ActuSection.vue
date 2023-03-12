@@ -10,8 +10,7 @@ Thérapie de couple
 Hypnose & PNL
 Respiration en hyperventilation 
 Pour savoir comment je peux vous accompagner ou pour prendre rendez-vous, contactez-moi par téléphone au 06.63.83.99.37 ou par mail damien.doussot.therapeute@gmail.com.<br><br>
-Au plaisir de vous accueillir ! <br><br>
-Prenez soin de vous </p>
+Au plaisir de vous accueillir ! <br><br></p>
         </div>
         <div class="grid grid-cols-2 gap-4 mt-8">
             <img class="w-full rounded-lg" src="@/assets/img_hand.jpg" alt="office content 1">
