@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "nuxt",
-    "build": "[my-framework] build --output public",
+    "build": "babel src -d lib",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
