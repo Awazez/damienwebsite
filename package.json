@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "[my-framework] build --output public",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
