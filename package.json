@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build",
+    "build": "sanity build",
     "start": "nuxt start",
     "generate": "nuxt generate"
   },
