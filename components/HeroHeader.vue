@@ -29,6 +29,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
 
 .wave-container {
+  background-image: url('@/assets/img_couple.jpg');
   position: relative;
   background-size: cover;
   color: black;
