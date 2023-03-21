@@ -1,0 +1,43 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/actu-section.js": "components/actu-section.js",
+    "components/caroussel-carousel-item.js": "components/caroussel-carousel-item.js",
+    "components/caroussel-carousel.js": "components/caroussel-carousel.js",
+    "components/commercial-bar.js": "components/commercial-bar.js",
+    "components/footer-bar.js": "components/footer-bar.js",
+    "components/hero-header.js": "components/hero-header.js",
+    "components/instagram-section.js": "components/instagram-section.js",
+    "components/nav-bar.js": "components/nav-bar.js",
+    "components/three-point.js": "components/three-point.js",
+    "components/users-section.js": "components/users-section.js",
+    "components/who-i-am.js": "components/who-i-am.js",
+    "pages/AccompagnementPage.js": "pages/AccompagnementPage.js",
+    "pages/ContactPage.js": "pages/ContactPage.js",
+    "pages/MentionLegal.js": "pages/MentionLegal.js",
+    "pages/TarifsPage.js": "pages/TarifsPage.js",
+    "pages/WhoPage.js": "pages/WhoPage.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/actu-section.js": "components/actu-section.js.map",
+    "components/caroussel-carousel-item.js": "components/caroussel-carousel-item.js.map",
+    "components/caroussel-carousel.js": "components/caroussel-carousel.js.map",
+    "components/commercial-bar.js": "components/commercial-bar.js.map",
+    "components/footer-bar.js": "components/footer-bar.js.map",
+    "components/hero-header.js": "components/hero-header.js.map",
+    "components/instagram-section.js": "components/instagram-section.js.map",
+    "components/nav-bar.js": "components/nav-bar.js.map",
+    "components/three-point.js": "components/three-point.js.map",
+    "components/users-section.js": "components/users-section.js.map",
+    "components/who-i-am.js": "components/who-i-am.js.map",
+    "pages/AccompagnementPage.js": "pages/AccompagnementPage.js.map",
+    "pages/ContactPage.js": "pages/ContactPage.js.map",
+    "pages/MentionLegal.js": "pages/MentionLegal.js.map",
+    "pages/TarifsPage.js": "pages/TarifsPage.js.map",
+    "pages/WhoPage.js": "pages/WhoPage.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
