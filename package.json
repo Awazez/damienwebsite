@@ -7,9 +7,9 @@
   },
   "scripts": {
     "dev": "nuxt",
-    "build": "npm run build",
+    "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "npm run generate"
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
